@@ -1,0 +1,5 @@
+package net.roseindia.model;
+
+public class Employee {
+
+}
